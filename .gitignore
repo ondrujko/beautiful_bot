@@ -1,0 +1,6 @@
+venv
+runtime.txt
+Procfile
+tg.db
+__pycache__
+.idea
